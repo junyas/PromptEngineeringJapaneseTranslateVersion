@@ -17,3 +17,5 @@
 1. [Use your data on Auzre OpenAI with Azure AI search](https://learn.microsoft.com/ko-kr/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 1. [Azure AI Search RAG(검색 증강 생성)](https://learn.microsoft.com/ko-kr/azure/search/retrieval-augmented-generation-overview)
 1. [Vector Search and state of the art retrieval for Generative AI apps](https://ignite.microsoft.com/en-US/sessions/18618ca9-0e4d-4f9d-9a28-0bc3ef5cf54e?source=sessions)
+1. [Azure Open AI Services Embeddings](https://learn.microsoft.com/ko-kr/azure/ai-services/openai/tutorials/embeddings?tabs=python-new%2Ccommand-line&pivots=programming-language-python)
+1. [Vector Search in Azure Cosmos DB for NoSQL](https://learn.microsoft.com/ko-kr/azure/cosmos-db/nosql/vector-search)
